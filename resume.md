@@ -1,47 +1,37 @@
-Markdown Resumé
+William McCarthy
 ===============
 
-[Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
-<http://github.com/mwhite/resume>
-
-Interests
----------
-
-*   Creating beautiful resumés from simple Markdown documents
-
+93 Kensington Road • Bronxville, New York 10708 
+914-844-8671 • wmccarthy.com
 
 Work Experience
 ---------------
 
-*   **Word Processor** (Redmond, WA)
+*   **Strategic Value Partners** (Greenwich, CT)
 
-    Junior Resumé Maker, 2006 - 2007
+    Risk Manager / Desk Quant, July 2011 - Present
 
     -   Intermingled presentation and content
     -   Styling was a pain, so either didn't do it or found a half-decent
         template and didn't mess with it
 
-*   **\LaTeX\ + pdflatex**
-
-    Senior Resumé Maker, 2008 - 2010
+    Head of Application Development, July 2007 - July 2011
 
     -   Edited verbose \LaTeX\ documents in a text editor
     -   Mixed content and presentation to achieve pixel-perfection
     -   Installed and configured the unusual TeX setups required by the
         best-looking \LaTeX\ resumés
 
-*   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
-
-    Web Resumé Intern, August 2010
+    Project Manager, November 2005 - July 2007
 
     -   Entered data, adapting to different data models and formatting
         limitations
     -   Attempted to customize PDF exports and remove default resumé elements,
         to no avail
 
-*   **Markdown with Pandoc**
+*   **Resurgence Asset Management / M.D. Sass Investor Services** (White Plains, NY)
 
-    Resumé Architect, February 2011 - present
+    Planning & Development Manager, April 2003 - November 2005
 
     -   Write in one format (Markdown), convert to many formats (PDF, HTML, ODT,
         DOCX, and more)
@@ -56,16 +46,14 @@ Work Experience
 Education
 ---------
 
-*   **Github University** (World Wide Web)
+*   **Tufts University** (Medford, MA)
 
-    B.S. in Submodules, May 2012
+    B.A. in Economics, March 2002
 
 
-Skills
+Technical Skills
 ------
 
-*   Very experienced with Python, Markdown, \LaTeX
-
-*   Familiar with GNU Make, bash
+*   Python, C#, SQL Server, MongoDB, Excel VBA, FinCAD, Bloomberg (terminal and api), \LaTeX, powershell
 
 
