@@ -1,19 +1,14 @@
-William McCarthy
-===============
+# William McCarthy
 
 93 Kensington Road • Bronxville, New York 10708 
-914-844-8671 • wmccarthy.com
+914-844-8671 • wm@wmccarthy.com
 
-Work Experience
----------------
+## Work Experience
 
-*   **Strategic Value Partners** (Greenwich, CT)
-
-    Risk Manager / Desk Quant, July 2011 - Present
-
-    -   
-
-    Head of Application Development, July 2007 - July 2011
+*   **Strategic Value Partners**  (Greenwich, CT)    
+Risk Manager / Desk Quant, July 2011 - Present
+  
+Head of Application Development, July 2007 - July 2011
 
     -   
 
@@ -21,7 +16,7 @@ Work Experience
 
     -   
 
-*   **Resurgence Asset Management / M.D. Sass Investor Services** (White Plains, NY)
+*   **Resurgence Asset Management / M.D. Sass** (White Plains, NY)
 
     Planning & Development Manager, April 2003 - November 2005
 
